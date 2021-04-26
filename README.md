@@ -5,3 +5,10 @@
 
 ## 과제 제출 과정
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
+
+## 구현할 기능 목록
+* 1~9중 서로다른 3자리 랜덤 숫자 생성
+* 입력값 받기
+* 생성된 숫자와 입력받은 숫자 비교
+* 정답인 경우 처리
+* 오답인 경우 처리
